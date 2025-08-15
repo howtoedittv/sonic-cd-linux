@@ -73,7 +73,9 @@ me — This automated Linux installer
 This installer script is released under the MIT License.
 The Sonic CD game data is not included in this license.
 
-final notes: the game is set to launch in fullscreen and exiting from the game menu is non working the only way to exit the game is by pressing super + tab and closing it from the desktop!!
+final notes: the game is set to launch in fullscreen and exiting from the game menu is
+non working the only way to exit the game is by pressing super + tab and closing it
+manualy from the desktop!!
 
 thanks :>
 
