@@ -39,6 +39,10 @@ wget -P ~/sonic-cd/game/RSDKv3-Decompilation/build/ \
 wget -P ~/ \
 "https://github.com/howtoedittv/get-sonic-cd-linux/releases/download/1.0/sonic_cd.sh"
 
+# get settings.ini from github to force game to lunch in full screen
+wget -P ~/sonic-cd/game/RSDKv3-Decompilation/build/ \
+"https://github.com/howtoedittv/sonic-cd-linux/releases/download/1.0/settings.ini"
+
 # Make the script executable
 chmod +x ~/sonic_cd.sh
 
