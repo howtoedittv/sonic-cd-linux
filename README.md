@@ -2,7 +2,7 @@
 
 > Quick Install (Linux only):
 ```bash
-bash <(wget -qO- https://github.com/me/sonic-cd-linux/raw/main/install_sonic_cd.sh)
+bash <(wget -qO- https://github.com/me/sonic-cd-linux/raw/main/install.sh)
 This command will automatically download and run the installer script in one step.
 
 This repository contains scripts that download, build, and run the RSDKv3 Decompilation of Sonic CD on Linux.
@@ -32,9 +32,9 @@ cd sonic-cd-linux
 
 2️⃣ Run the Installer Script
 
-chmod +x install_sonic_cd.sh
+chmod +x install.sh
 
-./install_sonic_cd.sh
+./install.sh
 
 ▶ How to Play
 
