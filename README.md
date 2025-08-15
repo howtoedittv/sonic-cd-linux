@@ -28,7 +28,7 @@ If you prefer to clone manually:
 
 git clone https://github.com/me/sonic-cd-linux.git
 
-cd get-sonic-cd-linux
+cd sonic-cd-linux
 
 2️⃣ Run the Installer Script
 
